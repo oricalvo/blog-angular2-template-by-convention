@@ -1,0 +1,21 @@
+{
+  "name": "angular2-quickstart",
+  "description": "",
+  "main": "",
+  "authors": [
+    "oricalvo <ori.calvo@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "plugin-text": "https://github.com/systemjs/plugin-text.git#^0.0.8",
+    "plugin-css": "https://github.com/systemjs/plugin-css.git#^0.1.23"
+  }
+}
